@@ -1,3 +1,4 @@
+![logo](https://github.com/FAWADHabib/FAWADHabib/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
 <!-- Full-width cyber-themed GIF -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/FAWADHabib/FAWADHabib/main/assets/cyber-bg.gif" alt="Cyber Background" width="900" />
