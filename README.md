@@ -3,7 +3,6 @@
   <img src="https://raw.githubusercontent.com/FAWADHabib/FAWADHabib/main/assets/cyber-bg.gif" alt="Cyber Background" width="900" />
 </div>
 
-
 <h2 align="left">Hi 👋! My name is FAWAD HABIB and I'm a CYBERSECURITY ANALYST, from PAKISTAN</h2>
 
 <picture>
@@ -18,9 +17,8 @@ Passionate about offensive & defensive security, incident response, and threat h
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FAWADHabib&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-
-  <i<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAWADHabib&layout=compact&theme=github_dark" alt="Top Languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAWADHabib&layout=compact&theme=github_dark" alt="Top Languages" />
+</div>
 
 ### Programming Languages
 
@@ -46,19 +44,19 @@ Passionate about offensive & defensive security, incident response, and threat h
 <div align="left">
   <ol start="5">
     <li>
-      <img src="https://img.shields.io/static/v1?label=&message=Kali%20Linux&logo=kali-linux&style=for-the-badge&color=111827" height="26" alt="kali" />
+      <img src="https://img.shields.io/static/v1?label=&message=Kali%20Linux&logo=kali-linux&style=for-the-badge&color=00FF00&logoColor=00FF00" height="28" alt="kali" />
     </li>
     <li>
-      <img src="https://img.shields.io/static/v1?label=&message=Wireshark&logo=wireshark&style=for-the-badge&color=0f172a" height="26" alt="wireshark" />
+      <img src="https://img.shields.io/static/v1?label=&message=Wireshark&logo=wireshark&style=for-the-badge&color=00FFFF&logoColor=00FFFF" height="28" alt="wireshark" />
     </li>
     <li>
-      <img src="https://img.shields.io/static/v1?label=&message=Burp%20Suite&logo=portswigger&style=for-the-badge&color=0f172a" height="26" alt="burpsuite" />
+      <img src="https://img.shields.io/static/v1?label=&message=Burp%20Suite&logo=portswigger&style=for-the-badge&color=FF00FF&logoColor=FF00FF" height="28" alt="burpsuite" />
     </li>
     <li>
-      <img src="https://img.shields.io/static/v1?label=&message=Nmap&logo=nmap&style=for-the-badge&color=0b1220" height="26" alt="nmap" />
+      <img src="https://img.shields.io/static/v1?label=&message=Nmap&logo=nmap&style=for-the-badge&color=00FF00&logoColor=00FF00" height="28" alt="nmap" />
     </li>
     <li>
-      <img src="https://img.shields.io/static/v1?label=&message=Metasploit&logo=metasploit&style=for-the-badge&color=071426" height="26" alt="metasploit" />
+      <img src="https://img.shields.io/static/v1?label=&message=Metasploit&logo=metasploit&style=for-the-badge&color=FF0000&logoColor=FF0000" height="28" alt="metasploit" />
     </li>
   </ol>
 </div>
@@ -88,5 +86,9 @@ Passionate about offensive & defensive security, incident response, and threat h
 
   <a href="mailto:fawadhabib9245@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=111827&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+
+  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="35" alt="Facebook" />
   </a>
 </div>
