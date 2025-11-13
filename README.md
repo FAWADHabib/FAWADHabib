@@ -33,9 +33,8 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/FAWADHabib/FAWADHabib/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
