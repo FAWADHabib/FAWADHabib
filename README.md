@@ -18,7 +18,8 @@ Passionate about offensive & defensive security, incident response, and threat h
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FAWADHabib&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAWADHabib&layout=compact&theme=github_dark" alt="Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAWADHabib&layout=compact&theme=github_dark&count_private=true&include_all_commits=true" alt="Top Languages" />
+
 </div>
 
 ### Programming Languages
