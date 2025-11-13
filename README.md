@@ -1,37 +1,69 @@
+<!-- Full-width cyber-themed GIF -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FAWADHabib/FAWADHabib/main/assets/cyber-bg.gif" alt="Cyber Background" width="900" />
+</div>
+
+
 <h2 align="left">Hi 👋! My name is FAWAD HABIB and I'm a CYBERSECURITY ANALYST, from PAKISTAN</h2>
 
-###
-
 <picture>
-     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" align="right">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" align="right" style="border-radius:8px; margin-left:18px;" />
 </picture>
 
-###
+<p>
+Passionate about offensive & defensive security, incident response, and threat hunting. I work with tools & techniques to find real-world vulnerabilities and harden systems.
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
+### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FAWADHabib&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FAWADHabib&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=FAWADHabib&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+
+  <i<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAWADHabib&layout=compact&theme=github_dark" alt="Top Languages" />
+
+
+### Programming Languages
+
+<div align="left">
+  <ol>
+    <li>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26" alt="python" style="vertical-align:middle;" /> &nbsp;<strong>Python</strong>
+    </li>
+    <li>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="26" alt="c++" style="vertical-align:middle;" /> &nbsp;<strong>C++</strong>
+    </li>
+    <li>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="26" alt="html5" style="vertical-align:middle;" /> &nbsp;<strong>HTML</strong>
+    </li>
+    <li>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" alt="css3" style="vertical-align:middle;" /> &nbsp;<strong>CSS</strong>
+    </li>
+  </ol>
 </div>
 
-###
+### Cybersecurity Tools
+
+<div align="left">
+  <ol start="5">
+    <li>
+      <img src="https://img.shields.io/static/v1?label=&message=Kali%20Linux&logo=kali-linux&style=for-the-badge&color=111827" height="26" alt="kali" />
+    </li>
+    <li>
+      <img src="https://img.shields.io/static/v1?label=&message=Wireshark&logo=wireshark&style=for-the-badge&color=0f172a" height="26" alt="wireshark" />
+    </li>
+    <li>
+      <img src="https://img.shields.io/static/v1?label=&message=Burp%20Suite&logo=portswigger&style=for-the-badge&color=0f172a" height="26" alt="burpsuite" />
+    </li>
+    <li>
+      <img src="https://img.shields.io/static/v1?label=&message=Nmap&logo=nmap&style=for-the-badge&color=0b1220" height="26" alt="nmap" />
+    </li>
+    <li>
+      <img src="https://img.shields.io/static/v1?label=&message=Metasploit&logo=metasploit&style=for-the-badge&color=071426" height="26" alt="metasploit" />
+    </li>
+  </ol>
+</div>
+
+### GitHub Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FAWADHabib/FAWADHabib/output/snake-dark.svg" />
@@ -39,17 +71,22 @@
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/FAWADHabib/FAWADHabib/output/snake-dark.svg" />
 </picture>
 
-
-
-###
+### Connect with Me
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+  <a href="https://github.com/FAWADHabib" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=0f172a&logoColor=white&style=for-the-badge" height="35" alt="GitHub" />
+  </a>
 
-###
+  <a href="https://www.linkedin.com/in/fawad-habib" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0a66c2&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+
+  <a href="https://www.instagram.com/fawad_9245" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=111827&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
+  </a>
+
+  <a href="mailto:fawadhabib9245@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=111827&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+</div>
