@@ -1,4 +1,4 @@
-![logo](https://github.com/FAWADHabib/FAWADHabib/blob/main/Github%20banner.png)
+![logo](https://github.com/FAWADHabib/FAWADHabib/blob/main/simple.png)
 <!-- Full-width cyber-themed GIF -->
 
 <h2 align="left">Hi 👋! My name is FAWAD HABIB and I'm a CYBERSECURITY ANALYST, from PAKISTAN</h2>
