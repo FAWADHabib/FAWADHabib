@@ -75,7 +75,7 @@ Passionate about offensive & defensive security, incident response, and threat h
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=0f172a&logoColor=white&style=for-the-badge" height="35" alt="GitHub" />
   </a>
 
-  <a href="[www.linkedin.com/in/fawad-habib-51a757352](https://www.linkedin.com/in/fawad-habib-51a757352/)" target="_blank">
+  <a href="(https://www.linkedin.com/in/fawad-habib-51a757352/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0a66c2&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 
@@ -83,7 +83,7 @@ Passionate about offensive & defensive security, incident response, and threat h
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=111827&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
   </a>
 
-  <a href="mailto:fawadhabib9245@gmail.com" target="_blank">
+  <a href="boyrockey80@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=111827&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
   </a>
 
