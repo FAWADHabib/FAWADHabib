@@ -1,7 +1,7 @@
 ![logo](https://github.com/FAWADHabib/FAWADHabib/blob/main/simple.png)
 <!-- Full-width cyber-themed GIF -->
 
-<h2 align="left">Hi 👋! My name is FAWAD HABIB and I'm a CYBERSECURITY ANALYST, from PAKISTAN</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">     Hi 👋! My name is FAWAD HABIB and I'm a CYBERSECURITY ANALYST, from PAKISTAN    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 <picture>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" align="right" style="border-radius:8px; margin-left:18px;" />
