@@ -75,7 +75,7 @@ Passionate about offensive & defensive security, incident response, and threat h
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=0f172a&logoColor=white&style=for-the-badge" height="35" alt="GitHub" />
   </a>
 
-  <a href="[https://www.linkedin.com/in/fawad-habib](https://www.linkedin.com/in/fawad-habib-51a757352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+  <a href="www.linkedin.com/in/fawad-habib-51a757352" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0a66c2&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 
